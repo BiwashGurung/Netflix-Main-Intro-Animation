@@ -828,3 +828,9 @@ body {
   left: 32%;
   animation-delay: 0.98s;
 }
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-25 {
+  --color: #ec0014;
+  left: 86.9%;
+  width: 1.1%;
+  animation-delay: 0.62s;
+}
