@@ -554,3 +554,13 @@ body {
   width: 3.7%;
   background: linear-gradient(to bottom, #e40913 0%, #e40913 37%, rgba(0, 0, 0, 0) 100%);
 }
+#container netflixintro [class*=helper-] .effect-lumieres {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  animation-name: showing-lumieres;
+  animation-duration: 2s;
+  animation-delay: 1.6s;
+  animation-fill-mode: forwards;
+}
