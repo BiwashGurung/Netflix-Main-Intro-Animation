@@ -262,3 +262,9 @@ body {
   animation-fill-mode: forwards;
   animation-delay: 1s;
 }
+#container netflixintro[letter=F] .helper-3 .effect-brush {
+  animation-name: brush-moving;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-delay: 0.5s;
+}
