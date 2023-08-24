@@ -171,3 +171,6 @@ body {
   animation-delay: 0.4s;
   animation-delay: 0.5s;
 }
+#container netflixintro[letter=T] {
+  transform-origin: center center;
+}
