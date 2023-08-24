@@ -803,3 +803,7 @@ body {
   width: 2%;
   animation-delay: 1.28s;
 }
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-22::before {
+  left: 62%;
+  animation-delay: 0.73s;
+}
