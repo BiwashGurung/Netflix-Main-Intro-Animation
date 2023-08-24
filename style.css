@@ -992,3 +992,11 @@ body {
     opacity: 1;
   }
 }
+@keyframes fading-lumieres-box {
+  0% {
+    background-color: rgba(228, 9, 19, 0.5);
+  }
+  100% {
+    background-color: rgba(228, 9, 19, 0);
+  }
+}
