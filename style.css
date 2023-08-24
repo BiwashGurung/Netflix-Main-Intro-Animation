@@ -549,3 +549,8 @@ body {
   width: 3.5%;
   background: linear-gradient(to bottom, #e40913 0%, #e40913 19%, rgba(0, 0, 0, 0) 100%);
 }
+#container netflixintro [class*=helper-] .effect-brush .fur-31 {
+  left: 96.3%;
+  width: 3.7%;
+  background: linear-gradient(to bottom, #e40913 0%, #e40913 37%, rgba(0, 0, 0, 0) 100%);
+}
