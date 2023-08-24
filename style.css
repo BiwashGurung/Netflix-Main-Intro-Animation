@@ -123,3 +123,11 @@ body {
   bottom: 0;
   height: 40%;
 }
+#container netflixintro[letter=E] .helper-2 {
+  width: 17.5%;
+  height: 50%;
+  left: 38%;
+  top: -49px;
+  transform: rotate(270deg);
+  overflow: hidden;
+}
