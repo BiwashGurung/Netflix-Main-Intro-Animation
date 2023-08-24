@@ -92,3 +92,9 @@ body {
   transform: rotate(180deg);
   overflow: hidden;
 }
+#container netflixintro[letter=N] .helper-2 .effect-brush {
+  animation-name: brush-moving;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  animation-delay: 0.5s;
+}
