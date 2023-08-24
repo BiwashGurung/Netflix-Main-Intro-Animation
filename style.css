@@ -892,3 +892,21 @@ body {
   animation-name: lumieres-moving-left;
   animation-duration: 5.5s;
 }
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-2,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-4,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-6,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-8,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-10,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-12,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-14,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-16,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-18,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-20,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-22,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-24,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-26,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-28 {
+  animation-name: lumieres-moving-right;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
+}
