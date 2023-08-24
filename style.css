@@ -333,3 +333,6 @@ body {
   bottom: 0;
   height: 40%;
 }
+#container netflixintro[letter=X] {
+  transform-origin: center center;
+}
