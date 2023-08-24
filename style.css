@@ -47,3 +47,15 @@ body {
 #container netflixintro[letter=N] {
   transform-origin: 30% center;
 }
+#container netflixintro[letter=N] .helper-1 {
+  width: 19.5%;
+  height: 100%;
+  background-color: rgba(228, 9, 19, 0.5);
+  left: 22.4%;
+  top: 0;
+  transform: rotate(180deg);
+  animation-name: fading-lumieres-box;
+  animation-duration: 2s;
+  animation-delay: 0.6s;
+  animation-fill-mode: forwards;
+}
