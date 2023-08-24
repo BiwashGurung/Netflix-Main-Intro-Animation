@@ -65,3 +65,7 @@ body {
   animation-fill-mode: forwards;
   animation-delay: 1.2s;
 }
+#container netflixintro[letter=N] .helper-1 .effect-brush [class*=fur-] {
+  bottom: 0;
+  height: 40%;
+}
