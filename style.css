@@ -927,11 +927,24 @@ body {
   animation-name: lumieres-moving-right;
   animation-duration: 5.5s;
 }
+
+
+
+
 @keyframes brush-moving {
   0% {
     transform: translateY(0);
   }
   100% {
     transform: translateY(-100%);
+  }
+}
+
+@keyframes fading-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
   }
 }
