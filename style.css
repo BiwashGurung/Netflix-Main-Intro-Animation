@@ -42,4 +42,5 @@ body {
   z-index: 5;
   transform-origin: left center;
   background-size: 4000px;
-  b
+  background-position: -1950px 0;
+}
