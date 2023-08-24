@@ -875,3 +875,20 @@ body {
   animation-duration: 5s;
   animation-fill-mode: forwards;
 }
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-1::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-3::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-5::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-7::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-9::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-11::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-13::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-15::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-17::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-19::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-21::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-23::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-25::before,
+#container netflixintro [class*=helper-] .effect-lumieres .lamp-27::before {
+  animation-name: lumieres-moving-left;
+  animation-duration: 5.5s;
+}
